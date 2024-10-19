@@ -58,8 +58,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 - Project Link: [SealedTrust](https://github.com/yourusername/sealedtrust)
 - Website: [SealedTrust](https://sealed-trust.vercel.app/)
-- Email: Reachout to us at [email](mailto:jvc8463@gmail.com)
+- Email: Reachout to us at [email](mailto:iamsarthakjha@gmail.com)
 
 ---
 
-Built with ❤️ using [OnchainKit](https://onchainkit.xyz/)
+Built using [OnchainKit](https://onchainkit.xyz/)
