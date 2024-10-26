@@ -13,7 +13,6 @@ SealedTrust is a decentralized platform for trustless deal-making, provides secu
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -39,13 +38,6 @@ SealedTrust is a decentralized platform for trustless deal-making, provides secu
    [SealedTrust](https://sealed-trust.vercel.app/)
    ```
 
-## Usage
-
-1. Youtube Video Explaining How to use the software:
-   ```
-   [Youtube SealedTrust](#)
-   ```
-
 ## Contributing
 
 We welcome contributions to SealedTrust! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
@@ -56,7 +48,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Contact
 
-- Project Link: [SealedTrust](https://github.com/yourusername/sealedtrust)
 - Website: [SealedTrust](https://sealed-trust.vercel.app/)
 - Email: Reachout to us at [email](mailto:iamsarthakjha@gmail.com)
 
